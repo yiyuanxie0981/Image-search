@@ -19,14 +19,14 @@ Modern image search application using React and Unsplash API.
 ### Installation
 ```bash
 # Clone repository
-git clone <repository-url>
+git clone https://github.com/yiyuanxie0981/Image-search.git
 cd SearchTerm
 
 # Install packages
 npm install
 
 # Create .env file
-echo "REACT_APP_UNSPLASH_API_KEY=your_api_key_here" > .env
+echo "REACT_APP_UNSPLASH_API_KEY=https://api.unsplash.com/search/photos" > .env
 
 # Start dev server
 npm start

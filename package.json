@@ -2,6 +2,7 @@
   "name": "pics",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://yiyuanxie0981.github.io/Image-search",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
